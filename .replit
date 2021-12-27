@@ -1,1 +1,1 @@
-run = "python string_operations.py"
+run = "python operators_example.py"

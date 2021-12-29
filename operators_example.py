@@ -48,7 +48,7 @@ g **= j
 print ('g **= j', g)
 
 k = 1
-l = 2
+l = 1
 m = 3
 
 print ( l > 1 and m > 2 )

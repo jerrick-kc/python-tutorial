@@ -1,1 +1,1 @@
-run = "python operators_example.py"
+run = "python ifelse_example.py"

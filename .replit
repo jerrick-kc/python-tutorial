@@ -1,1 +1,1 @@
-run = "python dict_example.py"
+run = "python table.py"

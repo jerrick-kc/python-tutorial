@@ -1,1 +1,1 @@
-run = "python shapes.py"
+run = "python game.py"
